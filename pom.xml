@@ -5,7 +5,7 @@
   <groupId>we.com</groupId>
   <artifactId>webapps</artifactId>
   <packaging>war</packaging>
-  <version>4.0-SNAPSHOT-2</version>
+  <version>4.0-SNAPSHOT-3</version>
   <name>webapps</name>
   <url>http://maven.apache.org</url>
 
